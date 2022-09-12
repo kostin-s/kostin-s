@@ -162,3 +162,22 @@
     src="./assets/projects/project_1.png" 
   />
 </div>
+
+<hr />
+
+<div align="left">
+  <h4>Сервис сокращения ссылок.</h4>
+  <p>
+    <a href="https://github.com/kostin-s/short_link">
+      Перейти в репозиторий проекта.
+    </a>
+  </p>
+  <p>
+    <a href="https://kostin-s.github.io/short_link/" target="_blank">
+      Посмотреть запущенный проект.
+    </a>
+  </p>
+  <img 
+    src="https://github.com/kostin-s/short_test/blob/master/src/assets/2.PNG" 
+  />
+</div>
