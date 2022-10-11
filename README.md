@@ -181,3 +181,22 @@
     src="https://github.com/kostin-s/short_test/blob/master/src/assets/2.PNG" 
   />
 </div>
+
+<hr />
+
+<div align="left">
+  <h4>Карточки товаров.</h4>
+  <p>
+    <a href="https://github.com/kostin-s/cards-cat">
+      Перейти в репозиторий проекта.
+    </a>
+  </p>
+  <p>
+    <a href="https://kostin-s.github.io/cards-cat/" target="_blank">
+      Посмотреть запущенный проект.
+    </a>
+  </p>
+  <img 
+    src="https://github.com/kostin-s/cards-cat/blob/master/src/images/page.png" 
+  />
+</div>
