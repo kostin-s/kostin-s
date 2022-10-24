@@ -166,6 +166,25 @@
 <hr />
 
 <div align="left">
+  <h4>Приложение расчёта стоимости автомобиля в лизинг.</h4>
+  <p>
+    <a href="https://github.com/kostin-s/car_leasing">
+      Перейти в репозиторий проекта.
+    </a>
+  </p>
+  <p>
+    <a href="https://kostin-s.github.io/car_leasing/" target="_blank">
+      Посмотреть запущенный проект.
+    </a>
+  </p>
+  <img 
+    src="https://github.com/kostin-s/car_leasing/blob/master/src/assets/1.PNG" 
+  />
+</div>
+
+<hr />
+
+<div align="left">
   <h4>Сервис сокращения ссылок.</h4>
   <p>
     <a href="https://github.com/kostin-s/short_link">
