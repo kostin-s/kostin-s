@@ -197,7 +197,7 @@
     </a>
   </p>
   <img 
-    src="https://github.com/kostin-s/short_test/blob/master/src/assets/2.PNG" 
+    src="https://github.com/kostin-s/short_link/blob/master/src/assets/2.PNG"
   />
 </div>
 
